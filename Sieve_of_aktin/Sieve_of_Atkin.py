@@ -23,7 +23,7 @@ def Sieve_of_atkin(number):
 
 
     numMod = number %60
-    isPrime = False
+    
 
     if numMod in prime:
 
